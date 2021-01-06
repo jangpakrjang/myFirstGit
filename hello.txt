@@ -10,7 +10,7 @@ myfirst git backup
 myfirst git backup2
 myfirst git backup3
 master1
-master area
+master area master area
 branch modify
 master modify branch modify
 master modify moster modify
